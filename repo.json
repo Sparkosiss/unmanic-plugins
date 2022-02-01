@@ -1,0 +1,41 @@
+{
+    "repo": {
+        "id": "repository.SPARKOSIS",
+        "name": "Sparkosis Repository",
+        "icon": "",
+        "repo_data_directory": "https://raw.githubusercontent.com/Sparkosiss/unmanic-plugins/repo/",
+        "repo_data_url": "https://raw.githubusercontent.com/Sparkosiss/unmanic-plugins/repo/repo.json"
+    },
+    "plugins": [
+        {
+            "author": "Sparkosis",
+            "compatibility": [
+                1
+            ],
+            "description": "A plugin to send a post or get request on specific url",
+            "icon": "",
+            "id": "webhook_notify",
+            "name": "Webhook Notify",
+            "priorities": {
+                "on_postprocessor_task_results": 0
+            },
+            "tags": "webhook,notify",
+            "version": "0.0.7"
+        },
+        {
+            "author": "Sparkosis",
+            "compatibility": [
+                1
+            ],
+            "description": "",
+            "icon": "",
+            "id": "ftp_uploader",
+            "name": "Ftp Uploader",
+            "priorities": {
+                "on_postprocessor_task_results": 0
+            },
+            "tags": "ftp, uploader",
+            "version": "0.0.16"
+        }
+    ]
+}

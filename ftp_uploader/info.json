@@ -1,0 +1,15 @@
+{
+    "author": "Sparkosis",
+    "compatibility": [
+        1
+    ],
+    "description": "",
+    "icon": "",
+    "id": "ftp_uploader",
+    "name": "Ftp Uploader",
+    "priorities": {
+        "on_postprocessor_task_results": 0
+    },
+    "tags": "ftp, uploader",
+    "version": "0.0.16"
+}

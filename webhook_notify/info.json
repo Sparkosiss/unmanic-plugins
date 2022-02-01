@@ -1,0 +1,15 @@
+{
+    "author": "Sparkosis",
+    "compatibility": [
+        1
+    ],
+    "description": "A plugin to send a post or get request on specific url",
+    "icon": "",
+    "id": "webhook_notify",
+    "name": "Webhook Notify",
+    "priorities": {
+        "on_postprocessor_task_results": 0
+    },
+    "tags": "webhook,notify",
+    "version": "0.0.7"
+}
